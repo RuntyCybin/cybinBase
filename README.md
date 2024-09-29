@@ -1,5 +1,5 @@
 # cybinBase
-Base Spring Core repository to start a new project
+Base Spring Core app to start a new project
 
 This project is intended to create Spring Core applications.
 
